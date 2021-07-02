@@ -1,0 +1,8 @@
+Name_:_Trignometry__|__Authur:_S.L.loney__|__Type_:_Mathematics__|__Price_:_760
+Name_:_Java__|__Authur:_Rahalkar__|__Type_:_Computer__|__Price_:_100
+Name_:_programming__|__Authur:_yashvant__|__Type_:_Computer__|__Price_:_285
+Name_:_Catch-22__|__Authur_:_Joseph__|__Type_:_novel__|__Price_:_250
+Name_:_Lolita__|__Authur:_valiminder__|__Type_:_Novel__|__Price_:_300
+Name_:_coordinatte__|__Authur:_taneja__|__Type_:_Maths__|__Price_:_200
+Name_:_Programming__|__Authur_:_S.L.Kanetkar__|__Type_:_Computer__|__Price_:_500
+
